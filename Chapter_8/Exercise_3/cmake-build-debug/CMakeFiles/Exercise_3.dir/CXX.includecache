@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/skony/CLionProjects/S_Prata_Excercises/Chapter_8/Exercise_3/main.cpp
+iostream
+-
+string
+-
+cctype
+-
+
